@@ -59,7 +59,7 @@ include:
     shield: charybdis_dongle
     keymap: qwerty
     format: dongle
-    artifact-name: charybdis_qwerty_dongle
+    artifact-name: charybdis_qwerty_dongle prospector_adapter
 
   # Colemak DH Dongle
   - board: nice_nano_v2
