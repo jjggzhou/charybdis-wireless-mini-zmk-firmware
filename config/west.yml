@@ -4,8 +4,8 @@ manifest:
       url-base: https://github.com/petejohanson
     - name: badjeff
       url-base: https://github.com/badjeff
-    - name: carrefinho
-      url-base: https://github.com/carrefinho
+    - name: jjggzhou
+      url-base: https://github.com/jjggzhou
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -21,7 +21,7 @@ manifest:
       remote: badjeff
       revision: main
     - name: prospector-zmk-module
-      remote: carrefinho
+      remote: jjggzhou
       revision: main
   self:
     path: config
