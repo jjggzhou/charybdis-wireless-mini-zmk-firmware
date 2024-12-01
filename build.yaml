@@ -56,11 +56,11 @@ include:
     format: dongle
     artifact-name: charybdis_qwerty_dongle_right
   - board: nice_nano_v2
-    shield: charybdis_dongle
+    shield: charybdis_dongle prospector_adapter
     keymap: qwerty
     format: dongle
-    artifact-name: charybdis_qwerty_dongle prospector_adapter
-
+    artifact-name: charybdis_qwerty_dongle
+    
   # Colemak DH Dongle
   - board: nice_nano_v2
     shield: charybdis_left
